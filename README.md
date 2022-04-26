@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @schnaible
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning NLP and Operating Systems
 - 💞️ I’m looking to collaborate on anything that needs help
-- 📫 How to reach me: https://www.linkedin.com/in/kyler-schnaible333/
+- 📫 How to reach me: https://www.linkedin.com/in/kschnaible
 
 <!---
 schnaible/schnaible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
